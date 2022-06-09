@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wyebit&label=Profile%20views&color=0e75b6&style=flat" alt="wyebit" /> </p>
 
-- 🌱 I’m currently learning **penetration testing, digital forensic, and android system development**
+- 🌱 I’m currently learning **penetration testing, digital forensic, android system development**
 
 - 📫 How to reach me **fairuz.infosec@gmail.com**
 
