@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wyebit&label=Profile%20views&color=0e75b6&style=flat" alt="wyebit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyebit" alt="wyebit" /></a> </p>
-
 - 🔭 I’m currently working on **Security Operations Center**
 
 - 🌱 I’m currently learning **Incident Handling, Penetration Testing**
 
-- 👨‍💻 All of my projects are available at [wyebit.github.io](wyebit.github.io)
+- 👨‍💻 All of my projects are available at [https://wyebit.github.io](https://wyebit.github.io)
 
-- 📝 I regularly write articles on [wyebit.github.io](wyebit.github.io)
+- 📝 I regularly write articles on [https://wyebit.github.io](https://wyebit.github.io)
 
 - 💬 Ask me about **Cyber Security Fundamental**
 
