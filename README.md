@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Incident Handling, Penetration Testing**
 
-- 👨‍💻 All of my projects are available at [https://wyebit.github.io](https://wyebit.github.io)
+- 👨‍💻 All of my projects are available at [https://wyebit.me](https://wyebit.me)
 
-- 📝 I regularly write articles on [https://wyebit.github.io](https://wyebit.github.io)
+- 📝 I regularly write articles on [https://wyebit.me](https://wyebit.me)
 
 - 💬 Ask me about **Cyber Security Fundamental**
 
