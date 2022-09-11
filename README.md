@@ -31,18 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wyebit&show_icons=true&locale=en" alt="wyebit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wyebit&" alt="wyebit" /></p>
-
-1. 23
-2. 3234
-3. 4334
-4. 13213
-5. 1231
-6. 23123
-7. 231123
-8. 2324
-9. 234234
-10. 234234
-11. 124234
-12. 12123
-13. 234234
-14. 234324
