@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fairuz</h1>
-<h3 align="center">A passionate cyber security from Indonesia</h3>
+<h3 align="center">A passionate cyber security enthusiast from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wyebit&label=Profile%20views&color=0e75b6&style=flat" alt="wyebit" /> </p>
 
